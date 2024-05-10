@@ -1,9 +1,3 @@
-<h1>Starthome</h1>
-<p align="center">
-  <img width="100px" src="readmesrc/av.png" />
-</p>
-
-
 <p align="center">
 <a href="#About"><img src="readmesrc/about.png" width="30%"></a>
 <a href="#Preview"><img src="readmesrc/preview.png" width="30%"></a>
